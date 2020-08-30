@@ -16,7 +16,7 @@ This document contains a specification of a BigchainDB *transaction*, including:
 
 # Motivation
 
-Anyone who wants to write a BigchainDB server or BigchainDB driver needs to know how to assembe, compute and check the validity of BigchainDB transactions. They don't want to read some example code and guess. They want a spec. This is that spec.
+Anyone who wants to write a BigchainDB server or BigchainDB driver needs to know how to assemble, compute and check the validity of BigchainDB transactions. They don't want to read some example code and guess. They want a spec. This is that spec.
 
 # Compatibility and Known Implementations
 
